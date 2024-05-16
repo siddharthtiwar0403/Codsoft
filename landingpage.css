@@ -1,0 +1,155 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    display: flex;
+}
+.boxes{
+    height: 850px;
+}
+.box2{
+    color: rgb(45, 45, 136);
+   margin: 0px 9px;
+   height: 30px;
+   border-right: 3px solid rgb(200, 135, 14);
+   margin-top: 70px;
+   font-size: 22px;
+}
+.box1{
+    font-weight: bolder;
+    margin-top: 74px;
+    margin-left: 5px;
+    font-size: 20px;
+    color: rgb(45, 45, 136);
+}
+.box3{
+    margin-left: 200px;
+}
+.box4{
+    font-size: 90px;
+    font-weight: bolder;
+    margin: 10px 2px;
+    margin-left: 20px;
+    color:rgb(45, 45, 136);
+}
+.box2:hover{
+    text-decoration: underline;
+}
+.box5 img{
+    position: absolute;
+    left: 55%;
+    top: 25%;
+    border-radius: 5px;
+    border-radius: 50px;
+}
+.box6{
+    font-size: 70px;
+    font-family: cursive;
+    position: absolute;
+    left: 3%;
+    top: 25%;
+    color:rgb(133, 11, 11);
+}
+.box7{
+    font-size: 20px;
+   height: 100px;
+   width: 400px;
+   position: absolute;
+   top: 45%;
+   left: 3%;
+}
+
+.box7 button:hover{
+    transform: scale(1.5);
+    background-color:rgb(210, 148, 33);
+}
+.box8{
+    color: rgb(133, 11, 11);
+    font-weight: bolder;
+    font-size: 65px;
+    position: absolute;
+    top: 85% ;
+    left: 3%;
+}
+.box9{
+    background-color: rgb(255, 247, 0);
+    width: 210px;
+    height: 6px;
+    position: absolute;
+    top: 98% ;
+    left: 4%;
+}
+.box10 img{
+    position: absolute;
+    top: 104%;
+    left: 4%;
+}
+.box10 button{
+    width: 150px;
+    height: 35px;
+    position: absolute;
+    top: 132%;
+    left: 10%;
+}
+.box11 img{
+    position: absolute;
+    top: 104%;
+    left: 38%;
+}
+.box11 button{
+    width: 150px;
+    height: 35px;
+    position: absolute;
+    top: 132%;
+    left: 45%;
+}
+.box12 img{
+    position: absolute;
+    top: 104%;
+    left: 73%;
+}
+.box12 button{
+    width: 150px;
+    height: 35px;
+    position: absolute;
+    top: 132%;
+    left: 80%;
+}
+body{
+    background-color: #f1a9b9;
+}
+.box13:hover{
+    transform: scale(1.5);
+    background-color: burlywood;
+}
+select{
+    height: 35px;
+    width: 130px;
+    margin: 0px 30px;
+    margin-top: 70px;
+    border-radius: 15px;
+}
+.box14{
+    height: 35px;
+    width: 130px;
+    margin: 0px 30px;
+    margin-top: 70px;
+    border-radius: 15px;
+}
+.ribbon {
+    width: 60px;
+    font-size: 14px;
+    padding: 4px;
+    position: absolute;
+    right: -20px;
+    top: -9px;
+    text-align: center;
+    border-radius: 25px;
+    transform: rotate(20deg);
+    background-color: blue;
+    color: white;
+  }
+  select:hover{
+    background-color:rgb(225, 156, 30);
+  }
